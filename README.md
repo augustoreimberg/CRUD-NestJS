@@ -60,5 +60,6 @@ O servidor estará rodando em [http://localhost:3000](http://localhost:3000).
 
 ## Estrutura do Projeto
 
-A estrutura básica do projeto NestJS segue o padrão de organização de módulos:
+A estrutura básica do projeto NestJS segue o padrão de organização de módulos
+
 
